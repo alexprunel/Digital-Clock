@@ -23,6 +23,7 @@ https://github.com/filipeflop/DS1307
 The buzzer and two buttons(for setting the alarm) are not used.
 
 I made a breadboard circuit for all components with pin headers for the main parts.You can see my clock in the pictures.
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Things to do:
 - buzzer code;
