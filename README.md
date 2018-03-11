@@ -11,7 +11,7 @@ What you need:
 You can also put a 9V battery support, connected to Vin(+) and GND(-) pins on Arduino.
 Arduino guides and libraries:
 
-TMP1O2
+TMP102
 https://learn.sparkfun.com/tutorials/tmp102-digital-temperature-sensor-hookup-guide
 
 PCD8544 
